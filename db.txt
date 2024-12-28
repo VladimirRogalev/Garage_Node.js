@@ -1,0 +1,29 @@
+[
+  {
+    "regNumber": "qwerty",
+    "model": "Y",
+    "company": "Tesla",
+    "engine": 2,
+    "color": "white"
+  },
+  {
+    "regNumber": "qwerty124",
+    "model": "x5",
+    "company": "BMW",
+    "engine": 6.62,
+    "color": "Green"
+  },
+  {
+    "regNumber": "qwerty1244",
+    "model": "x5",
+    "company": "BMW",
+    "engine": 8,
+    "color": "Green"
+  },
+    {
+      "regNumber": "qwerty124421",
+      "model": "x5",
+      "company": "BMW",
+      "color": "Green"
+    }
+]
